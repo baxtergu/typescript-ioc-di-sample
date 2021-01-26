@@ -14,4 +14,4 @@ yarn start
 
 ### Debug
 
-This sample include VSCode config file for debug. Using VSCode the open this folder, insert any `breakpoint` you want then press `F5`. The project then will run in debug mode.
+This sample include VSCode config file for debug. Open repository folder with VSCode, insert any `breakpoint` you want then press `F5`. The project will run in debug mode though.
