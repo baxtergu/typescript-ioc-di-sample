@@ -1,5 +1,5 @@
 {
-  "name": "ts-ioc-di",
+  "name": "typescript-ioc-di-sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,9 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["TypeScript", "IOC", "DI"],
+  "author": "baxtergu@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "reflect-metadata": "^0.1.13",
     "typescript": "^4.1.3"
